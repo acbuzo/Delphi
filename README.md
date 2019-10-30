@@ -9,7 +9,6 @@ Projeto explorando criacao de cadastro de cliente, preenchimento automatico de e
   Um arquivo XML e gerado no diretorio onde esta instalado o programa
   com dados informado apos clique no botao SALVAR
   O arquivo e gerado com o nome Cliente.XML
-  -----------------------------------------
 
   Obs:
   - Versao utizando DELPHI 7 que nao trata caracteres UNICODE, portanto
